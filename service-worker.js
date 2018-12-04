@@ -1,5 +1,8 @@
 var files = [
   "./index.html",
+  "./FormadePagamento.html",
+  "./formulario.html",
+  "./sobre nos.html",
 ];
 // dev only
 if (typeof files == 'undefined') {
